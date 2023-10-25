@@ -1,0 +1,7 @@
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# APRENDIZADO\C# PROJETO PRÁTICO 1\C# PROJETO PRÁTICO 1\obj\Debug\C# PROJETO PRÁTICO 1.csproj.AssemblyReference.cache
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# APRENDIZADO\C# PROJETO PRÁTICO 1\C# PROJETO PRÁTICO 1\obj\Debug\C# PROJETO PRÁTICO 1.csproj.CoreCompileInputs.cache
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# APRENDIZADO\C# PROJETO PRÁTICO 1\C# PROJETO PRÁTICO 1\bin\Debug\C# PROJETO PRÁTICO 1.exe.config
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# APRENDIZADO\C# PROJETO PRÁTICO 1\C# PROJETO PRÁTICO 1\bin\Debug\C# PROJETO PRÁTICO 1.exe
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# APRENDIZADO\C# PROJETO PRÁTICO 1\C# PROJETO PRÁTICO 1\bin\Debug\C# PROJETO PRÁTICO 1.pdb
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# APRENDIZADO\C# PROJETO PRÁTICO 1\C# PROJETO PRÁTICO 1\obj\Debug\C# PROJETO PRÁTICO 1.exe
+C:\Users\ghhal\OneDrive\Documentos\Área de Trabalho\C# APRENDIZADO\C# PROJETO PRÁTICO 1\C# PROJETO PRÁTICO 1\obj\Debug\C# PROJETO PRÁTICO 1.pdb
